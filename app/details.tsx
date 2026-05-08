@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
     borderColor: "transparent",
   },
   formThumbActive: {
-    borderColor: "#1A1A1A", // ✅ bordure visible sur la sélection active
+    borderColor: "#1A1A1A",
   },
   formImage: { width: 52, height: 52 },
   formLabel: {
